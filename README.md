@@ -1,4 +1,4 @@
-# README for Bus Departure Tracker Project
+# Bus Departure Tracker Project
 
 ## Overview
 
