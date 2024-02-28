@@ -6,9 +6,9 @@ This project is designed to provide real-time bus departure information from a s
 
 ## Files Description
 
-main.py: The main Python script that scrapes bus departure times using BeautifulSoup and requests.
-run.bat: A batch file that activates the Python environment and runs main.py.
-run.vbs: A VBScript that executes run.bat silently to avoid opening the Command Prompt window.
+- main.py: The main Python script that scrapes bus departure times using BeautifulSoup and requests.
+- run.bat: A batch file that activates the Python environment and runs main.py.
+- run.vbs: A VBScript that executes run.bat silently to avoid opening the Command Prompt window.
 
 ## Requirements
 
@@ -26,8 +26,8 @@ Double-click the shortcut created for run.vbs to fetch and display the bus depar
 
 ## Customization
 
-Modify main.py to track different bus stops or additional information.
-Update the VBScript and batch file for different execution environments or parameters.
+- Modify main.py to track different bus stops or additional information.
+- Update the VBScript and batch file for different execution environments or parameters.
 
 ## Note
 
